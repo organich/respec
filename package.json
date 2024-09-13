@@ -87,8 +87,8 @@
   "dependencies": {
     "colors": "1.4.0",
     "finalhandler": "^1.2.0",
-    "marked": "^4.2.12",
-    "puppeteer": "^19.6.3",
+    "marked": "^4.3.0",
+    "puppeteer": "^19.11.1",
     "sade": "^1.8.1",
     "serve-static": "^1.15.0"
   },
