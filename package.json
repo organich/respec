@@ -90,7 +90,7 @@
     "marked": "^4.2.12",
     "puppeteer": "^19.6.3",
     "sade": "^1.8.1",
-    "serve-static": "^1.15.0"
+    "serve-static": "^1.16.0"
   },
   "files": [
     "builds/",
